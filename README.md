@@ -61,6 +61,8 @@ Analyse cartographique de **4 605 locations Airbnb** (septembre 2024) dans les 1
 | Espaces verts, routes, voies ferrées | © contributeurs OpenStreetMap, 2021 |
 | Locations Airbnb (hors hôtels, prix < 1 000 €) | [Inside Airbnb](https://insideairbnb.com/get-the-data/), septembre 2024 |
 
+Données préparées dans le cadre du cours « Géomatique et cartographie avec R » du Master G2M (Université Paris 8).
+
 ## Structure du projet
 
 ```
