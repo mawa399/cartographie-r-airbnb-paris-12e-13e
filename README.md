@@ -15,7 +15,7 @@ Analyse cartographique de **4 605 locations Airbnb** (septembre 2024) dans les 1
 
 *Le total inclut 4 locations situées exactement sur une limite d'arrondissement.*
 
-**Autour du MK2 Bibliothèque (rayon de 600 m)** : 220 locations, pour un prix médian de **42 € par personne et par nuit**, soit un niveau proche de la moyenne des deux arrondissements (44 €).
+**Autour du MK2 Bibliothèque (rayon de 600 m)** : 220 locations, pour un prix médian de **42 € par personne et par nuit**, soit un niveau proche du prix médian de l’ensemble des deux arrondissements (44 €).
 
 ## Ce que montrent les cartes
 
